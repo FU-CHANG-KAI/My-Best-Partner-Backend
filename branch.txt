@@ -1,0 +1,8 @@
+16 Feb
+1. Delete activity forms
+2. Add login and registration form
+3. Query by user_id instead of username
+
+
+待解:
+74行: 修改profile時，
